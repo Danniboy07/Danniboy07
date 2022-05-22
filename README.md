@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Danniboy07
-- 👀 I’m interested in Python and Discord Bots!
-- 🌱 I’m currently learning the discord.py library
-- 💞️ I’m looking to collaborate on Discord Bots
-- 📫 How to reach me: Discord - Cweeper#9636
+- 👀 I’m interested in Python, JS and am trying to handle Data Science!
+- 📫 How to reach me: Mail- dhanvantg@gmail.com
 
 <!---
 Danniboy07/Danniboy07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
