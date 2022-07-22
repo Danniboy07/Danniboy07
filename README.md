@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Danniboy07
-- 👀 I’m interested in Python, JS and am trying to handle Data Science!
+- 👀 I’m interested in Python and JS
 - 📫 How to reach me: Mail- dhanvantg@gmail.com
 
 <!---
